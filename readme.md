@@ -4,8 +4,8 @@ ReadMe
 Social
 ------
 
-Email: RWObermann@Gmail.com
-Twitter: [@RWObermann](http://twitter.com/RWObermann)
+**Email:** RWObermann@Gmail.com
+**Twitter:** [@RWObermann](http://twitter.com/RWObermann)
 
 About
 -----
