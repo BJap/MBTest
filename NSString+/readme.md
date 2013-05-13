@@ -1,4 +1,4 @@
-GENERIC VIEW CONTROLLER
+NSSTRING+
 =======================
 
 About
@@ -14,7 +14,7 @@ To use it, add this class to your project, and import it into any class header t
 Features
 --------------
 - useful string parser for pulling out only numbers
-* **removeAllButNumbers**
+**removeAllButNumbers**
 
 
 License
